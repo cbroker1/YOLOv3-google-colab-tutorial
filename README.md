@@ -1,4 +1,4 @@
-# How to train YOLOv3 using Darknet on Google Colab with a 12GB-RAM/GPU notebook and optimize.
+# How to train YOLOv3 using Darknet on Google Colab with a 12GB-RAM/GPU notebook and optimize it!
 
 This notebook will show you how to:
 
